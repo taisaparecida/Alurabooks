@@ -1,0 +1,13 @@
+:root {
+     --cor-de-fundo:#ebecee
+}
+body{
+    background-color: azure(--cor-de-fundo);
+}
+<body>
+  <h1>Alurabook</h1>
+</body>
+h1 {
+    backgonund-color:white;
+}
+
